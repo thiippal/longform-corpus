@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article title="A Game of Shark and Minnow - Who Will Win Control of the South China Sea?" publisher="The New York Times" year="2013" article_identifier="gsm">
+    <screen identifier="001" mode="image-flow" type="dynamic" transition_in="none" transition_out="dissolve"/>
+    <screen identifier="002" mode="map" type="dynamic" transition_in="dissolve" transition_out="dissolve"/>
+    <screen identifier="003" mode="photograph" type="static" transition_in="dissolve" transition_out="scroll"/>
+    <screen identifier="004" mode="text-flow" type="static" transition_in="scroll" transition_out="scroll"/>
+    <screen identifier="005" mode="image-flow" type="dynamic" transition_in="scroll" transition_out="dissolve"/>
+    <screen identifier="006" mode="photograph" type="static" transition_in="dissolve" transition_out="dissolve"/>
+    <screen identifier="007" mode="image-flow" type="dynamic" transition_in="dissolve" transition_out="dissolve"/>
+    <screen identifier="008" mode="photograph" type="static" transition_in="dissolve" transition_out="scroll"/>
+    <screen identifier="009" mode="text-flow" type="static" transition_in="scroll" transition_out="scroll"/>
+    <screen identifier="010" mode="map" type="dynamic" transition_in="scroll" transition_out="zoom"/>
+    <screen identifier="011" mode="map" type="dynamic" transition_in="zoom" transition_out="zoom"/>
+    <screen identifier="012" mode="map" type="dynamic" transition_in="zoom" transition_out="zoom"/>
+    <screen identifier="013" mode="map" type="dynamic" transition_in="zoom" transition_out="zoom"/>
+    <screen identifier="014" mode="map" type="dynamic" transition_in="zoom" transition_out="scroll"/>
+    <screen identifier="015" mode="text-flow" type="static" transition_in="scroll" transition_out="scroll"/>
+    <screen identifier="016" mode="image-flow" type="dynamic" transition_in="scroll" transition_out="dissolve"/>
+    <screen identifier="017" mode="photograph" type="static" transition_in="dissolve" transition_out="dissolve"/>
+    <screen identifier="018" mode="photograph" type="static" transition_in="dissolve" transition_out="dissolve"/>
+    <screen identifier="019" mode="image-flow" type="dynamic" transition_in="dissolve" transition_out="scroll"/>
+    <screen identifier="020" mode="text-flow" type="static" transition_in="scroll" transition_out="scroll"/>
+    <screen identifier="021" mode="image-flow" type="dynamic" transition_in="scroll" transition_out="dissolve"/>
+    <screen identifier="022" mode="image-flow" type="dynamic" transition_in="dissolve" transition_out="dissolve"/>
+    <screen identifier="023" mode="image-flow" type="dynamic" transition_in="dissolve" transition_out="scroll"/>
+    <screen identifier="024" mode="text-flow" type="static" transition_in="scroll" transition_out="scroll"/>
+    <screen identifier="025" mode="photograph" type="static" transition_in="scroll" transition_out="dissolve"/>
+    <screen identifier="026" mode="image-flow" type="dynamic" transition_in="dissolve" transition_out="dissolve"/>
+    <screen identifier="027" mode="image-flow" type="dynamic" transition_in="dissolve" transition_out="scroll"/>
+    <screen identifier="028" mode="text-flow" type="static" transition_in="scroll" transition_out="scroll"/>
+    <screen identifier="029" mode="image-flow" type="dynamic" transition_in="scroll" transition_out="dissolve"/>
+    <screen identifier="030" mode="image-flow" type="dynamic" transition_in="dissolve" transition_out="dissolve"/>
+    <screen identifier="031" mode="photograph" type="static" transition_in="dissolve" transition_out="dissolve"/>
+    <screen identifier="032" mode="photograph" type="static" transition_in="dissolve" transition_out="scroll"/>
+    <screen identifier="033" mode="text-flow" type="static" transition_in="scroll" transition_out="none"/>
+</article>

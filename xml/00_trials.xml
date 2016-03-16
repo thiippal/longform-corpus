@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article title="Trials: A Desperate Fight to Save Kids and Change Science" publisher="The Wall Street Journal" year="2013" article_identifier="tri">
+    <screen identifier="001" mode="image-flow" type="dynamic" transition_in="none" transition_out="scroll"/>
+    <screen identifier="002" mode="text-flow" type="static" transition_in="scroll" transition_out="click"/>
+    <screen identifier="003" mode="photograph" type="static" transition_in="click" transition_out="scroll"/>
+    <screen identifier="004" mode="text-flow" type="static" transition_in="scroll" transition_out="click"/>
+    <screen identifier="005" mode="image-flow" type="dynamic" transition_in="click" transition_out="scroll"/>
+    <screen identifier="006" mode="text-flow" type="static" transition_in="scroll" transition_out="click"/>
+    <screen identifier="007" mode="image-flow" type="dynamic" transition_in="click" transition_out="scroll"/>
+    <screen identifier="008" mode="text-flow" type="static" transition_in="scroll" transition_out="click"/>
+    <screen identifier="009" mode="image-flow" type="dynamic" transition_in="click" transition_out="scroll"/>
+    <screen identifier="010" mode="text-flow" type="static" transition_in="scroll" transition_out="click"/>
+    <screen identifier="011" mode="image-flow" type="dynamic" transition_in="click" transition_out="scroll"/>
+    <screen identifier="012" mode="text-flow" type="static" transition_in="scroll" transition_out="click"/>
+    <screen identifier="013" mode="image-flow" type="dynamic" transition_in="click" transition_out="scroll"/>
+    <screen identifier="014" mode="text-flow" type="static" transition_in="scroll" transition_out="click"/>
+    <screen identifier="015" mode="image-flow" type="dynamic" transition_in="click" transition_out="scroll"/>
+    <screen identifier="016" mode="text-flow" type="static" transition_in="scroll" transition_out="click"/>
+    <screen identifier="017" mode="image-flow" type="dynamic" transition_in="click" transition_out="scroll"/>
+    <screen identifier="018" mode="text-flow" type="static" transition_in="scroll" transition_out="click"/>
+    <screen identifier="019" mode="image-flow" type="dynamic" transition_in="click" transition_out="scroll"/>
+    <screen identifier="020" mode="text-flow" type="static" transition_in="scroll" transition_out="none"/>
+</article>

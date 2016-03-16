@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar ns="" xmlns="http://relaxng.org/ns/structure/1.0" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+  <start>
+    <element name="article">
+      <attribute name="article_identifier">
+        <data type="NCName"/>
+      </attribute>
+      <attribute name="publisher"/>
+      <attribute name="title"/>
+      <attribute name="year">
+        <data type="integer"/>
+      </attribute>
+      <oneOrMore>
+        <element name="screen">
+          <attribute name="identifier">
+            <data type="integer"/>
+          </attribute>
+          <attribute name="mode">
+            <data type="NCName"/>
+          </attribute>
+          <attribute name="transition_in">
+            <data type="NCName"/>
+          </attribute>
+          <attribute name="transition_out">
+            <data type="NCName"/>
+          </attribute>
+          <attribute name="type">
+            <data type="NCName"/>
+          </attribute>
+        </element>
+      </oneOrMore>
+    </element>
+  </start>
+</grammar>

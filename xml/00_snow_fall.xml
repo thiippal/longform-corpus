@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article title="Snow Fall: The Avalanche at Tunnel Creek" publisher="The New York Times" year="2012" article_identifier="snw">
+    <screen identifier="001" mode="image-flow" type="dynamic" transition_in="none" transition_out="wipe"/>
+    <screen identifier="002" mode="text-flow" type="static" transition_in="wipe" transition_out="wipe"/>
+    <screen identifier="003" mode="map" type="dynamic" transition_in="wipe" transition_out="wipe"/>
+    <screen identifier="004" mode="text-flow" type="static" transition_in="wipe" transition_out="wipe"/>
+    <screen identifier="005" mode="map" type="dynamic" transition_in="wipe" transition_out="click"/>
+    <screen identifier="006" mode="photograph" type="static" transition_in="click" transition_out="wipe"/>
+    <screen identifier="007" mode="text-flow" type="static" transition_in="wipe" transition_out="wipe"/>
+    <screen identifier="008" mode="animation" type="dynamic" transition_in="wipe" transition_out="wipe"/>
+    <screen identifier="009" mode="text-flow" type="static" transition_in="wipe" transition_out="wipe"/>
+    <screen identifier="010" mode="map" type="dynamic" transition_in="wipe" transition_out="click"/>
+    <screen identifier="011" mode="text-flow" type="static" transition_in="click" transition_out="wipe"/>
+    <screen identifier="012" mode="text-flow" type="static" transition_in="wipe" transition_out="click"/>
+    <screen identifier="013" mode="photograph" type="static" transition_in="click" transition_out="wipe"/>
+    <screen identifier="014" mode="text-flow" type="static" transition_in="wipe" transition_out="wipe"/>
+    <screen identifier="015" mode="animation" type="dynamic" transition_in="wipe" transition_out="wipe"/>
+    <screen identifier="016" mode="text-flow" type="static" transition_in="wipe" transition_out="click"/>
+    <screen identifier="017" mode="image-flow" type="dynamic" transition_in="click" transition_out="wipe"/>
+    <screen identifier="018" mode="text-flow" type="static" transition_in="wipe" transition_out="click"/>
+    <screen identifier="019" mode="image-flow" type="dynamic" transition_in="click" transition_out="wipe"/>
+    <screen identifier="020" mode="text-flow" type="static" transition_in="wipe" transition_out="none"/>
+</article>
